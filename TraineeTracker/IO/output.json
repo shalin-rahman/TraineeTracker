@@ -1,0 +1,12 @@
+[
+    {
+        "TraineeId": "TR005",
+        "Name": "Aarav Mehta",
+        "Technology": "DevOps",
+        "Type": "Fresher",
+        "Module1Score": 78,
+        "Module2Score": 85,
+        "ProjectCompleted": true,
+        "FeedbackScore": 83.5
+    }
+]
